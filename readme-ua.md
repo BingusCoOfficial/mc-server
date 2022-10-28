@@ -6,4 +6,4 @@
 # ОТОЖ ПРИЄДНУЙТЕСЯ СЬОГОДНІ, ВИКОРИСТОВУЮЧИ IP <b>MC.MRHDUMPTY.XYZ</b> І ЯКЩО ВАМ ПОТРІБНО ВВЕСТИ ПОРТ, ЦЕ 63244 !
 
 
-[View in English](/mc-server/readme-ua.md)
+[View in English](https://binguscoofficial.github.io/mc-server/readme-ua.md)
