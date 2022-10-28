@@ -5,4 +5,4 @@
 
 # SO JOIN TODAY USING THE IP <b>MC.MRHDUMPTY.XYZ</b> AND IF YOU NEED TO INPUT A PORT IT IS <b>63244</b> !
 
-/mc-server/readme-ua
+[переглянути укр](/mc-server/readme-ua)
