@@ -4,3 +4,5 @@
 <span>In other words, you can play with users on Java Edition and Bedrock Edition <b>AT THE SAME TIME!</b></span>
 
 # SO JOIN TODAY USING THE IP <b>MC.MRHDUMPTY.XYZ</b> AND IF YOU NEED TO INPUT A PORT IT IS <b>63244</b> !
+
+/mc-server/readme-ua
